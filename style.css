@@ -133,7 +133,8 @@ header{
 }
 .companies-header{
     text-align: center;
-    margin-block: 30px;
+    margin-top: 80px;
+    margin-bottom: 30px;
     color: var(--primary-text-color);
 }
 .logos{
